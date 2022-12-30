@@ -19,7 +19,7 @@ loadScene.preload = function() {
     this.load.atlas('player4', 'assets/images/player4.png', 'assets/data/player.json');
     this.load.atlas('player5', 'assets/images/player5.png', 'assets/data/player.json');
     // 敵画像
-    this.load.image('enemy01', 'assets/images/enemy01.png');
+    this.load.image('enemy01', 'assets/images/008.jpg');
     this.load.image('enemy02', 'assets/images/enemy02.png');
     this.load.image('enemy05', 'assets/images/enemy05.png');
     this.load.image('enemy07', 'assets/images/enemy07.png');
