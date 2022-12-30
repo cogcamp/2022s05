@@ -23,7 +23,7 @@ loadScene.preload = function() {
     this.load.image('enemy02', 'assets/images/enemy02.png');
     this.load.image('enemy05', 'assets/images/enemy05.png');
     this.load.image('enemy07', 'assets/images/enemy07.png');
-    this.load.image('enemy08', 'assets/images/enemy08.png');
+    this.load.image('enemy08', 'assets/images/enemy12.png');
     // ファイヤ画像
     this.load.image('fire', 'assets/images/fire.png');
 };
