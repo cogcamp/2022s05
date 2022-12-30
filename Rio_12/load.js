@@ -19,11 +19,11 @@ loadScene.preload = function() {
     this.load.atlas('player4', 'assets/images/player4.png', 'assets/data/player.json');
     this.load.atlas('player5', 'assets/images/player5.png', 'assets/data/player.json');
     // 敵画像
-    this.load.image('enemy01', 'assets/images/enemy01.png');
-    this.load.image('enemy02', 'assets/images/enemy02.png');
-    this.load.image('enemy05', 'assets/images/enemy05.png');
-    this.load.image('enemy07', 'assets/images/enemy07.png');
-    this.load.image('enemy08', 'assets/images/enemy08.png');
+    this.load.image('enemy01', 'assets/images/P1255223.jpg');
+    this.load.image('enemy02', 'assets/images/aaaa.png');
+    this.load.image('enemy05', 'assets/images/abc.png');
+    this.load.image('enemy07', 'assets/images/abb.png');
+    this.load.image('enemy08', 'assets/images/acb(2).png');
     // ファイヤ画像
     this.load.image('fire', 'assets/images/fire.png');
 };
