@@ -25,7 +25,7 @@ mainScene.create = function () {
     this.config();
     
     // 背景色の設定
-    this.cameras.main.setBackgroundColor(''); 
+    this.cameras.main.setBackgroundColor('#E0FFFF'); 
     
     // マップ表示
     this.createMap();
