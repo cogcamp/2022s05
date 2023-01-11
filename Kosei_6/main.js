@@ -227,9 +227,9 @@ mainScene.shoot = function() {
     var y=this.player.body.center.y;
     var fire=this.fireGroup.create(x,y,"fire");
     fire.body.setSize(20,20);
-    fire.setDisplaySize(100,100);
+    fire.setDisplaySize(1000,1000);
     fire.body.setAllowGravity(false);
-    var speed=5000;
+    var speed=5;
     
     if(this.player.direction=='left'){
         fire.setAngle(90);
